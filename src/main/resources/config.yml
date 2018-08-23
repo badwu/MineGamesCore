@@ -1,0 +1,25 @@
+# use § for colors and %n to switch line, no bos sbar if null
+BossBarText: "§l§6MINEGAMES §8>> §fOPEN NOW!"
+
+# name of lobby world
+LobbyWorld: "spawn"
+
+# disable weather in all worlds
+DisableWeather: true
+
+# enable lightning on player join, leave and death
+SpawnLightnings: true
+
+# disable food in worlds
+NoFoodWorlds:
+  - "spawn"
+  - "tntrun"
+
+# enable all commands in core
+EnableCommands: true
+
+# gamemode 2 on join
+Gm2OnJoin: true
+
+# disable block placing/breaking in lobby world
+LobbyProtection: true
